@@ -1,2 +1,5 @@
+cls
 echo "This is just a test script"
-$host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown") | out-null
+Start-Sleep -s 5
+echo "You waited for 5 secs"
+Start-Sleep -s 60
