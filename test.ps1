@@ -1,5 +1,14 @@
 cls
-echo "This is just a test script"
-Start-Sleep -s 5
-echo "You waited for 5 secs"
-Start-Sleep -s 60
+echo "I"
+cls
+echo "I DID"
+cls
+echo "I DID THIS"
+cls
+echo "I DID THIS AS"
+cls
+echo "I DID THIS AS A"
+cls
+echo "I DID THIS AS A TEST"
+cls
+echo "Thank you for subscribing to Cat Facts!"
