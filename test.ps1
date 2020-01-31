@@ -17,4 +17,4 @@ cls
 echo "I DID THIS AS A TEST"
 Start-Sleep -s 2
 cls
-echo "Thank you for subscribing to Cat Facts!"
+echo "Thank you for subscribing to Cat Facts!!"
